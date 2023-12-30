@@ -8,4 +8,10 @@ let varr;
 // symbol = for uniqueness
  const juggy="blademaster"
 
-console.log(typeof juggy )
+// console.log(typeof juggy )
+
+const ragada="45"
+
+let ra=String(ragada)
+
+console.log(ra);

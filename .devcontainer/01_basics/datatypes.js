@@ -11,7 +11,22 @@ let varr;
 // console.log(typeof juggy )
 
 const ragada="45"
+//postfix
+let x=3;
+let y=x++;
 
-let ra=String(ragada)
+console.log(`x:${x},y:${y}`);
 
-console.log(ra);
+let a=23;
+const b=++a;
+
+console.log(`a:${a},b:${b}`)
+
+
+console.log(null>=0);
+console.log(null>0);
+console.log(null==0);
+
+console.log(undefined>=0);
+console.log(undefined>0);
+console.log(undefined==0);
